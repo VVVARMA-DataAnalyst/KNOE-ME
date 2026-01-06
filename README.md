@@ -1,7 +1,7 @@
 # KNOE-ME
 ABOUT VENKATA VARMA
 # 💫 About Me:
-🔭 I’m currently working on<br>Data Analytics and Data Engineering projects involving Python, SQL, Power BI, Kafka, MongoDB, and cloud platforms. I’m also building end-to-end data pipelines and ML-based analytical solutions.<br><br>👯 I’m looking to collaborate on<br>Data Analytics, Data Engineering, Machine Learning projects, real-time data processing systems, and open-source data tools.<br><br>🤝 I’m looking for help with<br>Advanced data engineering concepts, scalable pipeline design, cloud-native architectures, and industry-level best practices.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI (DAX), Big Data tools, Kafka-based streaming, cloud data services, and machine learning model deployment.<br><br>💬 Ask me about<br>Python, SQL, Data Analytics, Power BI, Data Engineering fundamentals, ML basics, internships, and project building.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and dashboards—and I’m always curious about how data drives real-world decisions.
+🔭 I’m currently working on<br>Data Analytics and Data Engineering projects involving Python, SQL, Power BI,Machine Learning and cloud platforms. I’m also building end-to-end data pipelines and ML-based analytical solutions.<br><br>👯 I’m looking to collaborate on<br>Data Analytics, Data Engineering, Machine Learning projects, real-time data processing systems, and open-source data tools.<br><br>🤝 I’m looking for help with<br>Advanced data engineering concepts, scalable pipeline design, cloud-native architectures, and industry-level best practices.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI (DAX), Big Data tools, Kafka-based streaming, cloud data services, and machine learning model deployment.<br><br>💬 Ask me about<br>Python, SQL, Data Analytics, Power BI, Data Engineering fundamentals, ML basics, internships, and project building.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and dashboards—and I’m always curious about how data drives real-world decisions.
 
 
 ## 🌐 Socials:
@@ -14,10 +14,3 @@ ABOUT VENKATA VARMA
 ![](https://nirzak-streak-stats.vercel.app/?user=VVVARMA-DataAnalyst&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VVVARMA-DataAnalyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=VVVARMA-DataAnalyst&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
